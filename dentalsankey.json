@@ -1,0 +1,175 @@
+{
+    "nodes": [
+        {
+            "name": "Careers Overview"
+        },
+        {
+            "name": "Applications"
+        },
+        {
+            "name": "apply-other"
+        },
+        {
+            "name": "apply-dental-assistant"
+        },
+        {
+            "name": "apply-dental-hygienist"
+        },
+        {
+            "name": "Homepage"
+        },
+        {
+            "name": "Career Category Page"
+        },
+        {
+            "name": "Job/Apply Page"
+        },
+        {
+            "name": "apply-support-centre"
+        },
+        {
+            "name": "apply-dental-associates-specialists"
+        },
+        {
+            "name": "apply-practice-admin"
+        },
+        {
+            "name": "apply-practice-office-manager"
+        },
+        {
+            "name": "dental-assistant"
+        },
+        {
+            "name": "dental-associates-specialists"
+        },
+        {
+            "name": "dental-hygienist"
+        },
+        {
+            "name": "practice-admin"
+        },
+        {
+            "name": "practice-office-manager"
+        },
+        {
+            "name": "support-centre"
+        }
+    ],
+    "links": [
+        {
+            "source": "Homepage",
+            "target": "Careers Overview",
+            "value": 9497
+        },
+        {
+            "source": "Careers Overview",
+            "target": "Career Category Page",
+            "value": 1607
+        },
+        {
+            "source": "Career Category Page",
+            "target": "dental-assistant",
+            "value": 275
+        },
+        {
+            "source": "dental-assistant",
+            "target": "apply-dental-assistant",
+            "value": 612
+        },
+        {
+            "source": "apply-dental-assistant",
+            "target": "Job/Apply Page",
+            "value": 612
+        },
+        {
+            "source": "Career Category Page",
+            "target": "dental-associates-specialists",
+            "value": 352
+        },
+        {
+            "source": "dental-associates-specialists",
+            "target": "apply-dental-associates-specialists",
+            "value": 705
+        },
+        {
+            "source": "apply-dental-associates-specialists",
+            "target": "Job/Apply Page",
+            "value": 705
+        },
+        {
+            "source": "Career Category Page",
+            "target": "dental-hygienist",
+            "value": 2829
+        },
+        {
+            "source": "dental-hygienist",
+            "target": "apply-dental-hygienist",
+            "value": 1205
+        },
+        {
+            "source": "apply-dental-hygienist",
+            "target": "Job/Apply Page",
+            "value": 1205
+        },
+        {
+            "source": "Career Category Page",
+            "target": "practice-admin",
+            "value": 249
+        },
+        {
+            "source": "practice-admin",
+            "target": "apply-practice-admin",
+            "value": 59
+        },
+        {
+            "source": "apply-practice-admin",
+            "target": "Job/Apply Page",
+            "value": 59
+        },
+        {
+            "source": "Career Category Page",
+            "target": "practice-office-manager",
+            "value": 241
+        },
+        {
+            "source": "practice-office-manager",
+            "target": "apply-practice-office-manager",
+            "value": 38
+        },
+        {
+            "source": "apply-practice-office-manager",
+            "target": "Job/Apply Page",
+            "value": 38
+        },
+        {
+            "source": "Career Category Page",
+            "target": "support-centre",
+            "value": 616
+        },
+        {
+            "source": "support-centre",
+            "target": "apply-support-centre",
+            "value": 286
+        },
+        {
+            "source": "apply-support-centre",
+            "target": "Job/Apply Page",
+            "value": 286
+        },
+        {
+            "source": "Career Category Page",
+            "target": "apply-other",
+            "value": 286
+        },
+        {
+            "source": "apply-other",
+            "target": "Job/Apply Page",
+            "value": 286
+        },
+        {
+            "source": "Job/Apply Page",
+            "target": "Applications",
+            "value": 80
+        }
+    ]
+}
